@@ -9,6 +9,7 @@
 ![Screenshot 2023-09-17 215007](https://github.com/jaideepsingh0085/amazonpage/assets/128147644/ec3a5ac2-2c16-45da-a1e9-9cacf247b248)
 ![Screenshot 2023-09-17 215013](https://github.com/jaideepsingh0085/amazonpage/assets/128147644/dc25bcbe-fd34-40cc-8c79-a1adda427239)
 
+Hosted Link : https://jaideepsingh0085.github.io/amazonpage/
 HTML :
 <html>: The root element that encapsulates the entire HTML document.
 <head>: Contains metadata about the document, such as the character set and linked stylesheets.
